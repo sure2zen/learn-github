@@ -3,6 +3,7 @@
 This gives the info about Git and Github
 
 ```python
+console.log("hello from Python);
 ```
 
 ```javascript
